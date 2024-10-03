@@ -17,7 +17,7 @@ A userscript that detects and copies the password from the `#link_download` sect
 
 #### Installation:
 1. Install [Tampermonkey](https://www.tampermonkey.net/).
-2. Click [**here**](https://github.com/yourusername/CopyPasswordFromOvagames/raw/main/copy_password_from_ovagames.user.js) to install the script.
+2. Click [**here**](https://github.com/Nisekoi-1/Ovagames/blob/main/copy_password_from_ovagames.user.js) to install the script.
 3. Confirm installation in Tampermonkey.
 
 #### How It Works:
@@ -37,7 +37,7 @@ A userscript that decodes and redirects Base64-encoded URLs from `linkspy.cc` pa
 
 #### Installation:
 1. Install [Tampermonkey](https://www.tampermonkey.net/).
-2. Click [**here**](https://github.com/Nisekoi-1/URLDecoderForLinkspy/raw/main/url_decoder_for_linkspy.user.js) to install the script.
+2. Click [**here**](https://github.com/Nisekoi-1/Ovagames/blob/main/URL_Decoder_for_ovagames.user.js) to install the script.
 3. Confirm installation in Tampermonkey.
 
 #### How It Works:
