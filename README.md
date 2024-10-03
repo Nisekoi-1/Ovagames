@@ -52,7 +52,3 @@ A userscript that decodes and redirects Base64-encoded URLs from `Ovagames\links
 
 ### v1.0 - URL Decoder for linkspy.cc
 - Initial release of the script.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
