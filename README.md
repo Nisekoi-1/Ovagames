@@ -3,7 +3,7 @@
 This repository contains two Tampermonkey userscripts:
 
 1. **Copy Password from Ovagames**: Automatically copies the "password: ###" from Ovagames pages.
-2. **URL Decoder for linkspy.cc**: Automatically decodes Base64-encoded URLs in `linkspy.cc` links and redirects to the final URL.
+2. **URL Decoder for Ovagames**: Automatically decodes Base64-encoded URLs in `linkspy.cc` links and redirects to the final URL.
 
 ## Scripts
 
@@ -27,9 +27,9 @@ A userscript that detects and copies the password from the `#link_download` sect
 
 ---
 
-### 2. URL Decoder for linkspy.cc
+### 2. URL Decoder for Ovagames
 
-A userscript that decodes and redirects Base64-encoded URLs from `linkspy.cc` pages.
+A userscript that decodes and redirects Base64-encoded URLs from `Ovagames\linkspy.cc` pages.
 
 #### Features:
 - Automatically extracts Base64-encoded URLs.
